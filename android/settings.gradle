@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeTimerExample'
+
+include ':app'
