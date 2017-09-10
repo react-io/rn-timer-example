@@ -12,7 +12,8 @@
     "react-native": "0.48.2",
     "react-native-search-box": "0.0.11",
     "rn-countdown-demo": "^0.2.0",
-    "rn-timer": "0.1.0"
+    "rn-timer": "0.1.0",
+    "rn-visible-view": "0.0.6"
   },
   "devDependencies": {
     "babel-jest": "21.0.0",
